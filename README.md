@@ -59,8 +59,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thank you for checking out the Lugx Gaming Business Website project! If you have any questions, suggestions, or issues, please feel free to reach out. Enjoy exploring the website!
 
-[Live Demo](https://your-website-url.com)
+[Live Demo](http://127.0.0.1:5500/index.html)
 
 ```
 
-Remember to replace placeholders such as `your-username` and `your-website-url.com` with your actual information. Additionally, include a screenshot of your website and adjust the file paths as needed. This README provides an organized and informative structure to showcase your project effectively.
+
